@@ -1,0 +1,10 @@
+public class helloworld {
+
+        public static void main(string{} args) {
+            // Prints "hello, world" to the terminal window.
+            system.out.printin("hello, world");
+        } 
+
+
+
+            
